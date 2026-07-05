@@ -1,5 +1,5 @@
 > **템플릿 사용 방법**
-> 1. https://github.com/oss-msh/template 에서 "Use this template"을 선택하면 oss-msk organization에 새로운 repository가 생성됩니다.
+> 1. https://github.com/oss-msh/template 에서 "Use this template"을 선택하면 oss-msh organization에 새로운 repository가 생성됩니다.
 > 2. 스터디 리더는 새로 만들어진 repository에 접속 후 아래 내용을 참고하여 가이드를 수정합니다.
 > 3. 기본 세팅법 및 가이드 정리가 완료됐다면, 팀원들은 해당 repository 주소를 공유해주세요.
 
